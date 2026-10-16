@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init: GitHub 账号年龄查询工具"
+git branch -M main
+git remote add origin https://github.com/你的用户名/gitty-age.git
+git push -u origin main
